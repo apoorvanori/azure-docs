@@ -51,8 +51,8 @@ Sign in to the [Azure portal - Orbital Preview](https://aka.ms/orbital/portal).
 
    | **Field** | **Value** |
    | --- | --- |
-   | Gain/Temperature (Downlink only) | Enter the gain to noise temperature in db/K |
-   | EIRP in dBW (Uplink only) | Enter the effective isotropic radiated power in dBW |
+   | Gain/Temperature (Downlink only) | Enter the minimum gain to noise temperature required of an antenna in db/K |
+   | EIRP in dBW (Uplink only) | Enter the effective isotropic radiated power required of an antenna in dBW |
    | Center Frequency | Enter the center frequency in MHz |
    | Bandwidth MHz | Enter the bandwidth in MHz |
    | Polarization | Select RHCP, LHCP, Dual, or Linear Vertical |
